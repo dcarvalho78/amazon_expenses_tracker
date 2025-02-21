@@ -1,0 +1,20 @@
+# Python-spezifische Dateien
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtuelle Umgebung
+venv/
+env/
+
+# Log-Dateien
+*.log
+
+# Konfigurationsdateien (z. B. Umgebungsvariablen)
+.env
+config.json
+
+# Sonstige temporäre Dateien
+.DS_Store
+Thumbs.db
